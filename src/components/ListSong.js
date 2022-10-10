@@ -14,7 +14,7 @@ export default function ListSong(){
     return(
         <div className ="col-span-2 overflow-y-scroll">
 <table className = "table-auto w-full ">
-    <thead className ="text-[#937DC2]">
+    <thead className ="text-[#937DC2] bg-[#b9cde0]">
         <tr>
             <th>#</th>
             <th className='text-left'>Title</th>
